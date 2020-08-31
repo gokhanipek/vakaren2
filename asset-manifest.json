@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vakaren2/static/css/main.e002d451.chunk.css",
-    "main.js": "/vakaren2/static/js/main.6dac912b.chunk.js",
-    "main.js.map": "/vakaren2/static/js/main.6dac912b.chunk.js.map",
+    "main.css": "/vakaren2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/vakaren2/static/js/main.f631401f.chunk.js",
+    "main.js.map": "/vakaren2/static/js/main.f631401f.chunk.js.map",
     "runtime-main.js": "/vakaren2/static/js/runtime-main.8949ee9a.js",
     "runtime-main.js.map": "/vakaren2/static/js/runtime-main.8949ee9a.js.map",
     "static/css/2.fb346933.chunk.css": "/vakaren2/static/css/2.fb346933.chunk.css",
-    "static/js/2.7dca9dff.chunk.js": "/vakaren2/static/js/2.7dca9dff.chunk.js",
-    "static/js/2.7dca9dff.chunk.js.map": "/vakaren2/static/js/2.7dca9dff.chunk.js.map",
+    "static/js/2.35e23a00.chunk.js": "/vakaren2/static/js/2.35e23a00.chunk.js",
+    "static/js/2.35e23a00.chunk.js.map": "/vakaren2/static/js/2.35e23a00.chunk.js.map",
     "index.html": "/vakaren2/index.html",
-    "precache-manifest.1fa8190abfd7461a2de128d57fd12aa2.js": "/vakaren2/precache-manifest.1fa8190abfd7461a2de128d57fd12aa2.js",
+    "precache-manifest.4bb614d842e11fb006124209e0e143ac.js": "/vakaren2/precache-manifest.4bb614d842e11fb006124209e0e143ac.js",
     "service-worker.js": "/vakaren2/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/vakaren2/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.e002d451.chunk.css.map": "/vakaren2/static/css/main.e002d451.chunk.css.map",
-    "static/js/2.7dca9dff.chunk.js.LICENSE.txt": "/vakaren2/static/js/2.7dca9dff.chunk.js.LICENSE.txt",
+    "static/css/main.5ecd60fb.chunk.css.map": "/vakaren2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.35e23a00.chunk.js.LICENSE.txt": "/vakaren2/static/js/2.35e23a00.chunk.js.LICENSE.txt",
     "static/media/anonymous-dark.png": "/vakaren2/static/media/anonymous-dark.29167867.png",
     "static/media/anonymous.png": "/vakaren2/static/media/anonymous.30a0a053.png",
     "static/media/github.png": "/vakaren2/static/media/github.d22ee372.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.8949ee9a.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.7dca9dff.chunk.js",
-    "static/css/main.e002d451.chunk.css",
-    "static/js/main.6dac912b.chunk.js"
+    "static/js/2.35e23a00.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f631401f.chunk.js"
   ]
 }

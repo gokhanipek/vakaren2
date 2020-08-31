@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd1429739067ab867d6e9e24b7d4b66a",
+    "revision": "a76af4992056adbb6132cac18f847c71",
     "url": "/vakaren2/index.html"
   },
   {
-    "revision": "85621ec719edf6090b81",
+    "revision": "3a0f1b08ed2efa7e2a73",
     "url": "/vakaren2/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "109701f88b488d4cb454",
-    "url": "/vakaren2/static/css/main.e002d451.chunk.css"
+    "revision": "cc063ba26c7a6f3575a5",
+    "url": "/vakaren2/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "85621ec719edf6090b81",
-    "url": "/vakaren2/static/js/2.7dca9dff.chunk.js"
+    "revision": "3a0f1b08ed2efa7e2a73",
+    "url": "/vakaren2/static/js/2.35e23a00.chunk.js"
   },
   {
     "revision": "64bea2e190f27355a76963b8cb94bb7b",
-    "url": "/vakaren2/static/js/2.7dca9dff.chunk.js.LICENSE.txt"
+    "url": "/vakaren2/static/js/2.35e23a00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "109701f88b488d4cb454",
-    "url": "/vakaren2/static/js/main.6dac912b.chunk.js"
+    "revision": "cc063ba26c7a6f3575a5",
+    "url": "/vakaren2/static/js/main.f631401f.chunk.js"
   },
   {
     "revision": "64df4e2f2dbaba0096db",
