@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vakaren2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vakaren2/static/js/main.38a7a262.chunk.js",
+    "main.js.map": "/vakaren2/static/js/main.38a7a262.chunk.js.map",
+    "runtime-main.js": "/vakaren2/static/js/runtime-main.8949ee9a.js",
+    "runtime-main.js.map": "/vakaren2/static/js/runtime-main.8949ee9a.js.map",
+    "static/js/2.89eb3ba4.chunk.js": "/vakaren2/static/js/2.89eb3ba4.chunk.js",
+    "static/js/2.89eb3ba4.chunk.js.map": "/vakaren2/static/js/2.89eb3ba4.chunk.js.map",
+    "index.html": "/vakaren2/index.html",
+    "precache-manifest.811b3e29639008f5c562d85ce7d1f6d4.js": "/vakaren2/precache-manifest.811b3e29639008f5c562d85ce7d1f6d4.js",
+    "service-worker.js": "/vakaren2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vakaren2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.89eb3ba4.chunk.js.LICENSE.txt": "/vakaren2/static/js/2.89eb3ba4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vakaren2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8949ee9a.js",
+    "static/js/2.89eb3ba4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.38a7a262.chunk.js"
+  ]
+}
