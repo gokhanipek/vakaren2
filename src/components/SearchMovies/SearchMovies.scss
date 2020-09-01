@@ -1,0 +1,14 @@
+.searchbar {
+    width: 350px;
+    min-width: 150px;
+    .buttons-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        .btn{
+            &.light-blue{
+                border-radius: 20px;
+            }
+        }
+    }
+}
