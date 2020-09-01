@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "http://gokhanipek.github.io/vakaren/static/css/main.0a11c1fb.chunk.css",
-    "main.js": "http://gokhanipek.github.io/vakaren/static/js/main.2fb123da.chunk.js",
-    "main.js.map": "http://gokhanipek.github.io/vakaren/static/js/main.2fb123da.chunk.js.map",
+    "main.js": "http://gokhanipek.github.io/vakaren/static/js/main.58bbdfe5.chunk.js",
+    "main.js.map": "http://gokhanipek.github.io/vakaren/static/js/main.58bbdfe5.chunk.js.map",
     "runtime-main.js": "http://gokhanipek.github.io/vakaren/static/js/runtime-main.1074080e.js",
     "runtime-main.js.map": "http://gokhanipek.github.io/vakaren/static/js/runtime-main.1074080e.js.map",
     "static/css/2.fb346933.chunk.css": "http://gokhanipek.github.io/vakaren/static/css/2.fb346933.chunk.css",
     "static/js/2.f9643d29.chunk.js": "http://gokhanipek.github.io/vakaren/static/js/2.f9643d29.chunk.js",
     "static/js/2.f9643d29.chunk.js.map": "http://gokhanipek.github.io/vakaren/static/js/2.f9643d29.chunk.js.map",
     "index.html": "http://gokhanipek.github.io/vakaren/index.html",
-    "precache-manifest.19ca7e087d1be83dee882b1dabc7b968.js": "http://gokhanipek.github.io/vakaren/precache-manifest.19ca7e087d1be83dee882b1dabc7b968.js",
+    "precache-manifest.8f4b6c99b6712ea5f9e59e5af5c68997.js": "http://gokhanipek.github.io/vakaren/precache-manifest.8f4b6c99b6712ea5f9e59e5af5c68997.js",
     "service-worker.js": "http://gokhanipek.github.io/vakaren/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "http://gokhanipek.github.io/vakaren/static/css/2.fb346933.chunk.css.map",
     "static/css/main.0a11c1fb.chunk.css.map": "http://gokhanipek.github.io/vakaren/static/css/main.0a11c1fb.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.fb346933.chunk.css",
     "static/js/2.f9643d29.chunk.js",
     "static/css/main.0a11c1fb.chunk.css",
-    "static/js/main.2fb123da.chunk.js"
+    "static/js/main.58bbdfe5.chunk.js"
   ]
 }
